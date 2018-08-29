@@ -1,0 +1,7 @@
+D:\ProjectTest\C#_Demos\Examples\Indexer.pradip.com\bin\Debug\Indexer.pradip.com.exe.config
+D:\ProjectTest\C#_Demos\Examples\Indexer.pradip.com\bin\Debug\Indexer.pradip.com.exe
+D:\ProjectTest\C#_Demos\Examples\Indexer.pradip.com\bin\Debug\Indexer.pradip.com.pdb
+D:\ProjectTest\C#_Demos\Examples\Indexer.pradip.com\obj\Debug\Indexer.pradip.com.csprojResolveAssemblyReference.cache
+D:\ProjectTest\C#_Demos\Examples\Indexer.pradip.com\obj\Debug\Indexer.pradip.com.csproj.CoreCompileInputs.cache
+D:\ProjectTest\C#_Demos\Examples\Indexer.pradip.com\obj\Debug\Indexer.pradip.com.exe
+D:\ProjectTest\C#_Demos\Examples\Indexer.pradip.com\obj\Debug\Indexer.pradip.com.pdb
